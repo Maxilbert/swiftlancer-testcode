@@ -1,5 +1,5 @@
 # swiftlancer-testcode
-This repository becomes under GNU General Public License v3, as the file utils.py adapts the code of a repository (https://github.com/Maxilbert/eth-blockhashes-backend) protected under GNU GPL v3 license.
+This repository becomes under GNU General Public License v3, as adapts the code of a repository (https://github.com/Maxilbert/eth-blockhashes-backend) protected under GNU GPL v3 license.
 
 
 This program is free software: you can redistribute it and/or modify
